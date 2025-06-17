@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhairyash Jain</h1>
-<h3 align="center">Hackathon-winning developer passionate about scalable systems, Web3 innovation, and building real-world interactive tech.</h3>
+<h3 align="center">Developer passionate about scalable systems, Web3 innovation, and building real-world interactive tech.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhairyash85&label=Profile%20views&color=0e75b6&style=flat" alt="dhairyash85" /> </p>
 
